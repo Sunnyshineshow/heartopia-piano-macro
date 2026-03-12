@@ -114,3 +114,7 @@ Notes outside the C3–C6 range are automatically transposed into the nearest av
 | Playback is off-tempo | Try adjusting `--bpm-scale` |
 | `pydirectinput` error | Run `pip install pydirectinput` |
 | `mido` not found | Run `pip install mido` |
+
+## Special Thanks
+- https://bitmidi.com/
+- https://signalmidi.app/
