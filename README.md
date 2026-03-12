@@ -100,7 +100,6 @@ Notes outside the C3–C6 range are automatically transposed into the nearest av
 
 - **Wrong octave?** Open the MIDI in a browser editor like [Signal](https://signal.vercel.app) or [Flat.io](https://flat.io) and shift notes into the C3–C6 range
 - **Song too fast?** Use `--bpm-scale 0.8` to slow it down
-- **Where to find MIDIs?** [MuseScore.com](https://musescore.com) has thousands of free piano arrangements ready to download
 - **Make sure the game window is focused** when playback starts — if another window is active, keystrokes will go there instead
 
 ---
