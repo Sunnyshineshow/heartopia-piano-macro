@@ -1,5 +1,7 @@
 # 🎹 Heartopia Piano Macro
 
+Yet another vibe-coding nonsense project that assists my daily life.
+
 Automatically play any MIDI song on the Heartopia in-game piano. No AutoHotkey needed — uses DirectX-level keystrokes that work reliably with the game.
 
 ---
